@@ -1,0 +1,39 @@
+body{
+    background: #edf4fa;
+}
+.page-header img{
+    width: 100%;
+}
+.content-box img{
+    width: 100%;
+    margin-bottom: 100px;
+}
+.content-box{
+    margin-top: 65px;
+}
+.footer-content{
+    text-align: center;
+}
+.footer-content p{
+    font-size: 2rem;
+    color: #888888;
+    letter-spacing: 0.2rem;
+
+}
+.footer-content .line-decoration{
+    border-top: 1px solid #c0c6cc;
+    width:85px;
+    margin: 0px 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.footer-content .phone-number{
+    color: #0995df;
+    font-size: 2.5rem;
+}
+.footer-content .icon-font{
+    font-size: 2.5rem;
+    color: #0995df;
+    font-weight: 800;
+    margin-right: 15px;
+}
